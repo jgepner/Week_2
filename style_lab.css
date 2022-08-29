@@ -1,0 +1,92 @@
+p {
+    color: darkblue;
+    font-size: 25px;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+body {
+    background-color: darkturquoise;
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+li {
+    list-style-type: square;
+    padding: 5px;
+}
+
+a {
+    background-color: lightgray;
+    color: red;
+    text-decoration: none;
+}
+
+ul {
+    background-color: white;
+}
+
+/*adding a style for an "id"*/
+#most-favorite-food {
+    background-color: darkturquoise;
+    text-decoration: underline;
+}
+
+#page-title {
+    text-shadow: 4px 4px magenta;
+    /*    set how far down; how far to the right*/
+}
+
+#favorite-music-name{
+    font-weight: bold;
+    color: darkcyan;
+}
+
+.favorite-section{
+    background-color: khaki;
+    border: 10px black double;
+    margin: 10px;
+    padding: 25px;
+    /*  width, color, style  */
+}
+
+#favorite-movie-title {
+    font-style: italic;
+    color: crimson;
+}
+
+table,tr, th, td {
+    border: 2px black solid;
+    border-collapse: collapse;
+}
+
+th {
+    width: 200px;
+    color: darkblue;
+    font-size: large;
+}
+
+td {
+    text-align: center;
+    height: 40px;
+    color: blueviolet;
+}
+.section-header{
+    font-family: "Arial Black", sans-serif;
+}
+
+.favorite-image {
+    border-radius: 40px;
+    margin-left: 100px;
+    width: 50%;
+    padding: 20px;
+
+}
