@@ -1,0 +1,19 @@
+body{
+    background-color: darkgoldenrod;
+    font-family: "Gill Sans MT";
+    color: #444444;
+    /*    color is FONT color*/
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+}
+
+img{
+    border-radius: 15px;
+}
+
+li{
+    list-style-type: square;
+}

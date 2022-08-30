@@ -1,0 +1,17 @@
+table,tr, th, td {
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+th {
+    width: 100px;
+    background-color: lightgray;
+}
+
+td {
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: aquamarine;
+}
